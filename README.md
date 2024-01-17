@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [OMI Web Components Framework](http://omijs.org)
-  - 📶 **Signal**-driven reactive programming
+  - 📶 **Signal**-driven reactive programming by [reactive-signal](https://github.com/Tencent/omi/tree/master/packages/reactive-signal)
   - 🐲 [OMI Form](https://omi.cdn-go.cn/form/latest/docs/) & [OMI Form Playground](https://omi.cdn-go.cn/form/latest/play/) & [Lucide Omi Icons](https://github.com/omijs/lucide-omi)
   - 🎉 [OMIU Preview](https://omi.cdn-go.cn/omiu/latest/) in progress & [OMIU Source Code](https://github.com/Tencent/omi/tree/master/packages/omiu)
   - ⚡ **Tiny** size, **Fast** performance
